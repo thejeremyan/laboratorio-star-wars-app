@@ -1,0 +1,35 @@
+[
+    {
+        "nombre": "Anakin Skywalker",
+        "altura": 1.90,
+        "anno": 41
+    },
+    {
+    "nombre": "Leia Organa",
+    "altura": 1.56,
+    "anno": 20
+    },
+    {
+    "nombre": "Han Solo",
+    "altura": 1.80,
+    "anno": 29
+
+    },
+    {
+    "nombre": "Luke Skywalker",
+    "altura": 1.70,
+    "anno": 19
+
+    },
+    {
+    "nombre": "Padme Amidala",
+    "altura": 1.60,
+    "anno": 46
+
+    },
+    {
+    "nombre": "Mace Windu",
+    "altura": 1.90,
+    "anno": 0
+    }
+]
